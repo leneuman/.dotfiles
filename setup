@@ -1,0 +1,2 @@
+git config --global user.name "Lauren Neuman"
+git config --global user.email "leneuman@email.sc.edu"
